@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivdven
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning to build chatbots with python
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on with anyone who is also a starter
 - 📫 How to reach me just leave a message
 
